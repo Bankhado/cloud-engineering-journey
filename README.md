@@ -47,3 +47,24 @@ transition from start to finish.
 ---
 
 ## Repo Structure
+
+cloud-engineering-journey/
+│
+├── README.md              ← You're here
+├── linux/
+│   ├── notes/             ← Command breakdowns and concept notes
+│   └── exercises/         ← Scripts written during practice
+├── git-practice/          ← Git and GitHub reference notes
+├── aws/                   ← SAA-C03 study notes and labs (Phase 2)
+├── terraform/             ← IaC configs and exercises (Phase 3)
+└── projects/              ← Hands-on builds: CI/CD pipeline, architecture labs
+
+The empty folders are intentional — they reflect the roadmap ahead.
+
+---
+
+## Why This Background Matters
+
+Four years supporting Azure infrastructure in HIPAA and SOX environments means I already
+understand IAM decisions, compliance constraints, and what production stability actually
+requires. This repo is where I build the cloud-native layer on top of that foundation.
