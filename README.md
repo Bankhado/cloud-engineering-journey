@@ -44,7 +44,7 @@ transition from start to finish.
 | 4 | AZ-104, Kubernetes, CI/CD pipeline, active job search | Fall 2026 |
 | 5 | First offer target window | Late 2026 |
 
----
+...
 
 ## Repo Structure
 
@@ -61,7 +61,7 @@ cloud-engineering-journey/
 
 The empty folders are intentional — they reflect the roadmap ahead.
 
----
+...
 
 ## Why This Background Matters
 
