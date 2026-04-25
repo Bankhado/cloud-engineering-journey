@@ -45,8 +45,7 @@ transition from start to finish.
 | 5 | First offer target window | Late 2026 |
 
 
-## Repo Structure
-
+```
 cloud-engineering-journey/
 │
 ├── README.md              ← You're here
@@ -57,8 +56,7 @@ cloud-engineering-journey/
 ├── aws/                   ← SAA-C03 study notes and labs (Phase 2)
 ├── terraform/             ← IaC configs and exercises (Phase 3)
 └── projects/              ← Hands-on builds: CI/CD pipeline, architecture labs
-
-The empty folders are intentional — they reflect the roadmap ahead.
+```
 
 
 ## Why This Background Matters
